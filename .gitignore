@@ -49,3 +49,6 @@ Temporary Items
 *.jpg
 *.zip
 *.zip
+
+#unzipped files
+*.csv
